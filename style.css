@@ -12,7 +12,7 @@
    ========================================================================== */
 
 html {
-  color: #222;
+  color: #1b1a1a;
   font-size: 1em;
   line-height: 1.4;
 }
@@ -270,7 +270,7 @@ textarea {
 
 
   /** CSS BASIC CODE START**/
-  body{position: relative;font-weight:400;font-size: 15px;font-family: 'Roboto', sans-serif;color:#999999}
+  body{position: relative;font-weight:400;font-size: 15px;font-family: 'Roboto', sans-serif;color:#000}
   img{max-width: 100%;height: auto;}
   h1,h2,h3,h4,h5,h6{margin: 0;font-family: 'Montserrat', sans-serif;}
   /** CSS BASIC CODE END**/
